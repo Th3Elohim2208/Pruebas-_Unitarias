@@ -1,0 +1,79 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\javier\\Desktop\\aaaaaaaaaaa\\Pruebas_Unitarias\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{67A557DA-A2AB-4CD5-AE72-6BDC20D8FF81}|Pruebas_Unitarias.csproj|c:\\users\\javier\\desktop\\aaaaaaaaaaa\\pruebas_unitarias\\listadoble.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67A557DA-A2AB-4CD5-AE72-6BDC20D8FF81}|Pruebas_Unitarias.csproj|solutionrelative:listadoble.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67A557DA-A2AB-4CD5-AE72-6BDC20D8FF81}|Pruebas_Unitarias.csproj|c:\\users\\javier\\desktop\\aaaaaaaaaaa\\pruebas_unitarias\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67A557DA-A2AB-4CD5-AE72-6BDC20D8FF81}|Pruebas_Unitarias.csproj|solutionrelative:unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67A557DA-A2AB-4CD5-AE72-6BDC20D8FF81}|Pruebas_Unitarias.csproj|c:\\users\\javier\\desktop\\aaaaaaaaaaa\\pruebas_unitarias\\ilista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67A557DA-A2AB-4CD5-AE72-6BDC20D8FF81}|Pruebas_Unitarias.csproj|solutionrelative:ilista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ListaDoble.cs",
+              "DocumentMoniker": "C:\\Users\\javier\\Desktop\\aaaaaaaaaaa\\Pruebas_Unitarias\\ListaDoble.cs",
+              "RelativeDocumentMoniker": "ListaDoble.cs",
+              "ToolTip": "C:\\Users\\javier\\Desktop\\aaaaaaaaaaa\\Pruebas_Unitarias\\ListaDoble.cs",
+              "RelativeToolTip": "ListaDoble.cs",
+              "ViewState": "AgIAAKQAAAAAAAAAAAAqwKoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T03:29:14.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ILista.cs",
+              "DocumentMoniker": "C:\\Users\\javier\\Desktop\\aaaaaaaaaaa\\Pruebas_Unitarias\\ILista.cs",
+              "RelativeDocumentMoniker": "ILista.cs",
+              "ToolTip": "C:\\Users\\javier\\Desktop\\aaaaaaaaaaa\\Pruebas_Unitarias\\ILista.cs",
+              "RelativeToolTip": "ILista.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T03:28:40.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\javier\\Desktop\\aaaaaaaaaaa\\Pruebas_Unitarias\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "UnitTest1.cs",
+              "ToolTip": "C:\\Users\\javier\\Desktop\\aaaaaaaaaaa\\Pruebas_Unitarias\\UnitTest1.cs",
+              "RelativeToolTip": "UnitTest1.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAADgvxEAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T03:20:48.648Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
